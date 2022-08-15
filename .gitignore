@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Data dumps
+*.zip
+*.csv
+*.xls
+*.xlsx
+-IPEDS_dictionaries.xlsx

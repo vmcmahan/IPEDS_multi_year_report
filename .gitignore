@@ -133,4 +133,4 @@ Data dumps
 *.csv
 *.xls
 *.xlsx
--IPEDS_dictionaries.xlsx
+!IPEDS_dictionaries.xlsx

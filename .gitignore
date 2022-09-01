@@ -134,3 +134,6 @@ Data dumps
 *.xls
 *.xlsx
 !IPEDS_dictionaries.xlsx
+
+*.ora
+tnsnames.ora
